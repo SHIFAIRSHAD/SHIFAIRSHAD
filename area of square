@@ -1,3 +1,0 @@
-lenght=float(input("enter side of square : "))
-area=lenght*lenght
-print("area of square is: ",area)
